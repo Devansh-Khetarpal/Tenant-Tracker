@@ -91,7 +91,7 @@ Tenant_Tracker/
 
 1. **Clone or download the project**
    ```bash
-   git clone https://github.com/gunjanpandey1/Tenant_Tracker.git
+   git clone https://github.com/Devansh-Khetarpal/Tenant-Tracker.git
    cd Tenant_Tracker
    ```
 
@@ -110,7 +110,7 @@ Tenant_Tracker/
    JWT_SECRET=your-super-secret-jwt-key-for-local-development-123456
    
    # Server
-   PORT=3001
+   PORT=3000
    NODE_ENV=development
    ```
 
